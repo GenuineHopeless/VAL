@@ -1,8 +1,6 @@
 using namespace val;
 
 #include <new>
-#include <memory>
-#include <algorithm>
 
 // реализация iterator
 template <typename T>

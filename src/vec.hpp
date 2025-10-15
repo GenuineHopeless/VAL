@@ -5,8 +5,6 @@
 #include <stdexcept>
 #include <type_traits>
 #include <utility>
-#include <iterator>
-#include <initializer_list>
 
 namespace val
 {
