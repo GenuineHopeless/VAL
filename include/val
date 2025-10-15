@@ -1,8 +1,0 @@
-#ifndef VAL_LIBRARY_
-#define VAL_LIBRARY_
-
-#include "../src/vec.hpp"
-#include "../src/sort.hpp"
-#include "../src/stack.hpp"
-
-#endif
