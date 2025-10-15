@@ -3,5 +3,6 @@
 
 #include "../src/vec.hpp"
 #include "../src/sort.hpp"
+#include "../src/stack.hpp"
 
 #endif
