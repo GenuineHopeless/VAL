@@ -1,5 +1,5 @@
-#ifndef SORT_HPP_
-#define SORT_HPP_
+#ifndef VAL_SORT_
+#define VAL_SORT_
 
 namespace val {
 	template <typename Iterator, typename Comparator = std::less<typename Iterator::value_type>>
